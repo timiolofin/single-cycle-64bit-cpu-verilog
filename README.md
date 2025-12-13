@@ -93,16 +93,8 @@ Final results are validated against expected memory values.
 ```
 .
 ├── src/                # Verilog RTL modules
-│   ├── adders/
-│   ├── alu/
-│   ├── control/
-│   ├── memory/
-│   ├── datapath/
-│   └── cpu/
 ├── tb/                 # Testbenches for every module
 ├── hex/                # Instruction and data memory initialization files
-├── docs/               # Final project report (PDF/DOCX)
-├── waveforms/          # Simulation screenshots (Vivado)
 └── README.md
 ```
 
